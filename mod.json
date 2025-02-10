@@ -1,0 +1,8 @@
+{
+	"name": "kate",
+	"version": "27.0.1",
+	"label": "Kate's Overhaul Modpack",
+	"ignoreInCompatibilityChecks": true,
+	"description": "The ultimate GUI abstraction mod aimed at cleaning up the scene for competitve games. Completely benign, no cheats.",
+	"dependencies": ["0ad>=0.0.25"]
+}
